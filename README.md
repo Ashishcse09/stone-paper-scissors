@@ -1,2 +1,3 @@
-# Javascript-projects
-My JavaScript Projects and  learning practice..
+# Stone-paper-scissors
+A simple Stone Paper Scissors game built using HTML, CSS and JavaScript
+
